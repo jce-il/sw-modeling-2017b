@@ -1,27 +1,34 @@
 ##General
-Generally, work in this course is done in pairs and submitted through github, (we ask to switch team for every assignment).
+Generally, work in this course is done in pairs and submitted through github, (It is recommended to switch team for every assignment).
 
-If you prefer that your solution will not be publicly visible [request private repositories][private-repos].
+~~If you prefer that your solution will not be publicly visible [request private repositories][private-repos].~~
 
 
 ##Submissions Instructions
+1. Use the link for each assignment to have your own copy. Add your peer as a collaborator
+1. [**Clone**][ref-clone] the repository to your computer.
+1. [**Push**][ref-push]/sync the changes up to GitHub.
+1. Open an issue for checking the submission, assigned to the lecturer.
+
+<strike>
 1. To start, [**fork**][forking] the rellevant excercise repository (not this one), add your team as collabotators (so they get notified for repository activity).
 1. [**Clone**][ref-clone] the repository to your computer (for later updates: first add a [remote][config-remote] to the upstream repo and [sync][sync-remote] with a [pull][ref-pull]:  ```git pull upstream master```).
 1. Modify/add files and [**commit**][ref-commit] changes to complete your solution.
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
-  - Add your excercise mates ass collaborators and also tag them in the PR message so they can participate in the discussion.
+  - Add your excercise mates as collaborators and also tag them in the PR message so they can participate in the discussion.
 
 Pull request screencast [demo](http://screencast-o-matic.com/watch/coe3IEeMDa)
+</strike>
 
-## Homework1: [Git immersion](https://github.com/jce-il/git-immersion)
+## Homework1: Git immersion - [Invitation](https://classroom.github.com/assignment-invitations/e2e1a8f2de618d4961dbac294ff32f72)
 To complete building our git mental **model** in the course, we will complete the git-immerssion workshop by [Jim Weirich](https://github.com/jimweirich). 
 
 **Important**: this time it is a personal submission.
 
-**Submission date**: 3 weeks
+**Submission date**: 2 weeks
 
-## Homework2 [UML/OCL](https://github.com/jce-il/sw-modeling-2016b-uml)
+## Homework2: [UML/OCL](https://github.com/jce-il/sw-modeling-2016b-uml) - [Invitation](https://classroom.github.com/group-assignment-invitations/7c61d63f9fb185675b3c691e01ae0c05)
 
 Modeling an online store (Amazon like), through:
 
@@ -38,13 +45,18 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 - Format: Each part has a separte markdown page including XMI files and image files
 
 - Submission by a pull request, please add your mates in the PR comments
-- **Submission dates**: 3 parts, each successive weeks, by pull request
 
-## Homework3 Architecture Views & Prespetive (TBD)    
+- **Submission dates**: 3 parts, each successive weeks
+
+## Homework3: Architecture Views & Prespetive (TBD)    
+
+1. Select a chapter from [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html) book
+1. Review the architectural style of the project using the provided V&P template
+1. Present the project and your findings at class
 
 Possible alternative/addition: write a review for a project stage of another project team.
 
-**Submission date**: TBD
+**Submission date**: 2 weeks, see Readme
 
 ## Final Class Project
 ### Azrieli Students On Software Modeling and Architecture - [ASOSMA] Book ([Deployed version]) (draft)
@@ -58,11 +70,11 @@ Grades are according to how much your work is: relevant (to the course), interes
 ### Stage 0 - Project Selection and Introduction
 - Form into a team of ~4 students (choose wisely)
 - Select a known open source project
-  - Constrains: the project should be: interesting to you, big & complex enough, actively developed on github (>100 PRs in last year), has an automated test suite (use of updated engineering practices), used by someone (something on stake), a whole product might suit as better than a mere library, and seem to miss documenation.
+  - Constrains: the project should be: interesting to you, big & complex enough, **actively** developed on github (>100 PRs in last year), has an automated test suite (using updated engineering practices and tools), used by someone (something is on stake), a whole product might suit as better than a mere library, and seem to miss documenation.
   - Here are some sources for ideas and inspiration: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop), [Last year's projects][last-year-proejcts], Below a starting list of [suggestions](./#project-suggestions).
 - Fork the [ASOSMA] book repo and add a folder with a README.md page for your chapter and link it also from the main book README page (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
   - Project name, original project repository and your team members (linked usernames), send a PR for that ASAP to reserve your subject.
-  - Setup an issue tracking system to coordinate your work and report effort and progress (repository settings -> mark the issues for operating it). It is required upon  closing an issue to add you actual effort).
+  - Recommended: setup an issue tracking system to coordinate your work and report effort and progress (repository settings -> mark the issues line for operating it). Upon  closing an issue to add you actual effort).
         - Plan your overall project by adding dated milestones according to the course plan and your preferences.
         - Start planning next iteration work.
   - See also a similiar book project example [here][Desosa-book].
