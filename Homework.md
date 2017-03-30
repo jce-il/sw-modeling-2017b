@@ -21,14 +21,14 @@ Generally, work in this course is done in pairs and submitted through github, (I
 Pull request screencast [demo](http://screencast-o-matic.com/watch/coe3IEeMDa)
 </strike>
 
-## Homework1: Git immersion - [Invitation](https://classroom.github.com/assignment-invitations/e2e1a8f2de618d4961dbac294ff32f72)
+## Homework1: Git immersion - [Invitation](https://classroom.github.com/assignment-invitations/e2e1a8f2de618d4961dbac294ff32f72) (see Readme for instructions)
 To complete building our git mental **model** in the course, we will complete the git-immerssion workshop by [Jim Weirich](https://github.com/jimweirich). 
 
 **Important**: this time it is a personal submission.
 
 **Submission date**: 2 weeks
 
-## Homework2: [UML/OCL](https://github.com/jce-il/sw-modeling-2016b-uml) - [Invitation](https://classroom.github.com/group-assignment-invitations/7c61d63f9fb185675b3c691e01ae0c05)
+## Homework2: UML/OCL - [Invitation](https://classroom.github.com/group-assignment-invitations/7c61d63f9fb185675b3c691e01ae0c05)
 
 Modeling an online store (Amazon like), through:
 
@@ -47,6 +47,8 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 - Submission by a pull request, please add your mates in the PR comments
 
 - **Submission dates**: 3 parts, each successive weeks
+
+([Originalß Instructions](https://github.com/jce-il/sw-modeling-2016b-uml))
 
 ## Homework3: Architecture Views & Prespetive (TBD)    
 
