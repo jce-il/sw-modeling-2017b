@@ -52,8 +52,8 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 
 ## Homework3: Architecture Views & Prespetive (TBD)    
 
-1. Select a chapter from [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html) book
-1. Review the architectural style of the project using the provided V&P template
+1. Select a chapter from [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html) book ([Reference](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/VPandP_Reference.pdf))
+1. Review the architectural style of the project using the provided [V&P template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.doc)
 1. Present the project and your findings at class
 
 Possible alternative/addition: write a review for a project stage of another project team.
