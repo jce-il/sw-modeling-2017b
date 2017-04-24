@@ -13,7 +13,7 @@ Main repository for software modeling course @JCE
 | 3 | [UML1] - usecase          | 2. [UML/OCL/Tooling][ex02-uml] (23/3, 30/3, 6/4) |
 | 4 | [UML2] - static & dynamic | |
 | 5 | [UML3] - Summary & OCL    | |
-| 6 | [Architecture] - OSS      | |
+| 6 | [Architecture]1 - OSS     | |
 | 7 | Arch. 2 - views & prespectives     |  p0. 4/5|
 | 7 | Arch. 4 (cont. Arch. Course) - viewpoints |  p1. 18/5 |
 | 8 | Arch. 5 - viewpoints2 & prespectives      |  3. [OSS - Arch. Views][ex03-arch] 25/5|
