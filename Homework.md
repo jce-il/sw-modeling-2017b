@@ -50,7 +50,7 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 
 ([Originalß Instructions](https://github.com/jce-il/sw-modeling-2016b-uml))
 
-## Homework3: Architecture Views & Prespetive (TBD)    
+## ~~Homework3: Architecture Views & Prespetive (TBD)~~    
 
 1. Select a chapter from [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html) book ([Reference](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/VPandP_Reference.pdf))
 1. Review the architectural style of the project using the provided [V&P template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.doc)
@@ -70,13 +70,13 @@ Each iteration will be submitted by a pull request to the book repository and th
 Grades are according to how much your work is: relevant (to the course), interesting & deep, presented well (written and oral), on time, etc. We might add an individual grade variation according to activity and final presentation.
 
 ### Stage 0 - Project Selection and Introduction
-- Form into a team of ~4 students (choose wisely)
+- Form into a team of ~<=4 students (choose wisely)
 - Select a known open source project
   - Constrains: the project should be: interesting to you, big & complex enough, **actively** developed on github (>100 PRs in last year), has an automated test suite (using updated engineering practices and tools), used by someone (something is on stake), a whole product might suit as better than a mere library, and seem to miss documenation.
-  - Here are some sources for ideas and inspiration: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop), [Last year's projects][last-year-proejcts], Below a starting list of [suggestions](./#project-suggestions).
+  - Here are some sources for ideas and inspiration: [leading github projects](https://github.com/showcases), Book: [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html), Local: [Hasadna](http://www.hasadna.org.il/projects/) (The Public Knowledge Workshop), [Last year's projects][last-year-proejcts], See also below a starting list of [suggestions](./#project-suggestions).
 - Fork the [ASOSMA] book repo and add a folder with a README.md page for your chapter and link it also from the main book README page (decides whether to collaborate through a shared (private?) team repository or by PRs), add:
   - Project name, original project repository and your team members (linked usernames), send a PR for that ASAP to reserve your subject.
-  - Recommended: setup an issue tracking system to coordinate your work and report effort and progress (repository settings -> mark the issues line for operating it). Upon  closing an issue to add you actual effort).
+  - Highly recommended: setup an issue tracking system to coordinate your work and report effort and progress (repository settings -> mark the issues line for operating it). Upon  closing an issue to add you actual effort).
         - Plan your overall project by adding dated milestones according to the course plan and your preferences.
         - Start planning next iteration work.
   - See also a similiar book project example [here][Desosa-book].
@@ -95,6 +95,7 @@ Grades are according to how much your work is: relevant (to the course), interes
 - Describe the given documentation and general source code structure.
 - Analyze and describe the main requirements/features of the product (stakeholder view).
 - Analyze and describe the major or important designs with UML diagrams and or other modeling means (e.g. sketeches (Calico), views, [C4][structurizr]).
+- Review the architectural style of the project using 2-3 of the V&P book's [template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.pdf)
 - Describe a few challenges for this project (e.g., a missing important feature, known bugs).
 - Try to validate your analysis with the project team and report about it.
 

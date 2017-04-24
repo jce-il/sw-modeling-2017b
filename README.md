@@ -14,11 +14,11 @@ Main repository for software modeling course @JCE
 | 4 | [UML2] - static & dynamic | |
 | 5 | [UML3] - Summary & OCL    | |
 | 6 | [Architecture] - OSS      | |
-| 7 | [Architecture] - views & prespectives     |  p0. 4/5|
-| 7 | Arch. 2 (cont. Arch. Course) - viewpoints |  p1. 18/5 |
-| 8 | Arch. 3 - viewpoints2 & prespectives      |  3. [OSS - Arch. Views][ex03-arch] 25/5|
-| 9 | Arch. 4 - test scenarions & patterns      |  p2. 8/6 |
-| 10| Arch. 5 - Evaluate & Document             | p3. 15/6|
+| 7 | Arch. 2 - views & prespectives     |  p0. 4/5|
+| 7 | Arch. 4 (cont. Arch. Course) - viewpoints |  p1. 18/5 |
+| 8 | Arch. 5 - viewpoints2 & prespectives      |  3. [OSS - Arch. Views][ex03-arch] 25/5|
+| 9 | Arch. 6 - test scenarions & patterns      |  p2. 8/6 |
+| 10| Arch. 7 - Evaluate & Document             | p3. 15/6|
 | 11 | [Process]                 | |
 | 12| Verification & Validation - [Testing] / Security / DDD? |  |
 | 13| Presentations & [Summary]                 | p4. 22/6 end-of-semester | 
@@ -37,8 +37,8 @@ Main repository for software modeling course @JCE
 [UML1]: ./lecture/modeling-03-uml1.pdf
 [UML2]: ./lecture/modeling-04-uml2.pdf
 [UML3]: ./lecture/modeling-05-uml3-ocl.pdf
+[Architecture]: ./lecture/modeling-06-architecture.pdf
 [Process]: ./lecture/modeling-06-team-process.pdf
-[Architecture]: ./lecture/modeling-07-architecture.pdf
 [Testing]: ./lecture/modeling-08-testing.pdf
 [Summary]: ./lecture/modeling-09-summary.pdf
 
