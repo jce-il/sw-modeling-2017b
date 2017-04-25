@@ -85,7 +85,7 @@ Grades are according to how much your work is: relevant (to the course), interes
 - Start your introduction section, including:
   - General details about the project (homepage, repository, development team, communications)
   - project fit for our book (why it was chosen?).
-  - Describe the model of the development process.
+  - Describe the model of the development process (more in stage 2).
   - Review availaibe resources, especially concerning modeling and architecture  (repos, papers, posts, issues/bugs).
   - Add a few images or diagrams to support the above.
 
@@ -95,14 +95,14 @@ Grades are according to how much your work is: relevant (to the course), interes
 - Describe the given documentation and general source code structure.
 - Analyze and describe the main requirements/features of the product (stakeholder view).
 - Analyze and describe the major or important designs with UML diagrams and or other modeling means (e.g. sketeches (Calico), views, [C4][structurizr]).
-- Review the architectural style of the project using 2-3 of the V&P book's [template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.pdf)
+- Review the architectural style of the project using 2-3 of the most suitable Viewpoints and Prespectives from the course's book. Use the book's [template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.pdf)s. We are especially concened in this stage with the Development view. Describe how you used the book's checklists to ensure that the viewpoint are well developed.
 - Describe a few challenges for this project (e.g., a missing important feature, known bugs).
 - Try to validate your analysis with the project team and report about it.
 
 ### Stage 3 - Metrics, Variability and Quality Measures
 - Describe how the project is coping with the pace of change commonly expected from software, e.g. testing, maintianability, and other means.
 - Describe the applicability of a design metric tool (e.g. CodeClimate, CodeBeat) to the project code.
-- Describe how at least 2 qualities are handled, especially, availability and security (if the product is not a service define others)
+- Describe how at least 2 qualities are handled, especially from the prespectives of changeability (evolution) and security (if the product is not a service define others, again use the book's template)
 
 ### Stage 4 - Presentation, Feedback and Finizlize
 - Present your work in one of the 2 last lectures (~15 min. +10 min. Q&A), if you prepare slides or clips add them to the documentation and/or book.
