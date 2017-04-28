@@ -79,7 +79,7 @@ Grades are according to how much your work is: relevant (to the course), interes
   - Highly recommended: setup an issue tracking system to coordinate your work and report effort and progress (repository settings -> mark the issues line for operating it). Upon  closing an issue to add you actual effort).
         - Plan your overall project by adding dated milestones according to the course plan and your preferences.
         - Start planning next iteration work.
-  - See also a similiar book project example [here][Desosa-book].
+  - See also a similiar book project example: [2015][Desosa-book], [2016][Desosa-book16], [2017][Desosa-book17],.
 
 ### Stage 1 - Introducion
 - Start your introduction section, including:
@@ -137,6 +137,8 @@ The book will be avaialbe on github with a common creative with attribution lice
 [ASOSMA]: https://github.com/jce-il/ASOSMA
 [Deployed version]: http://jce-il.github.io/ASOSMA/README.html
 [Desosa-book]: http://delftswa.github.io/
+[Desosa-book16]: https://www.gitbook.com/book/delftswa/desosa2016/details
+[Desosa-book17]: https://www.gitbook.com/book/delftswa/desosa-2017/details
 [branching model]: http://nvie.com/posts/a-successful-git-branching-model/
 [last-year-proejcts]: https://github.com/jce-il/sw-modeling-class/blob/master/Projects.md
 [structurizr]: https://structurizr.com/
@@ -145,10 +147,10 @@ The book will be avaialbe on github with a common creative with attribution lice
 [JasminePRs]: https://github.com/jasmine/jasmine/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
 
 [Anyway]: https://github.com/hasadna/anyway
-[AnywayPRS]: https://github.com/hasadna/anyway/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
+[AnywayPRS]: https://github.com/hasadna/anyway/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2016-04-01+
 
 [libgdx]: https://github.com/libgdx/libgdx
-[libgdxPRs]: https://github.com/libgdx/libgdx/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
+[libgdxPRs]: https://github.com/libgdx/libgdx/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2016-04-01+
 
 [bolt]: https://github.com/bolt/bolt
-[boltPRs]:https://github.com/bolt/bolt/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2015-04-01+
+[boltPRs]:https://github.com/bolt/bolt/pulls?utf8=%E2%9C%93&q=is%3Apr+created%3A%3E2016-04-01+
