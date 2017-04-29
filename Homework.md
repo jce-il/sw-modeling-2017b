@@ -111,7 +111,7 @@ Grades are according to how much your work is: relevant (to the course), interes
 - Present your work in one of the 2 last lectures (~15 min. +10 min. Q&A), if you prepare slides or clips add them to the documentation and/or book.
 - You are encourage to contribute back the modeling documentation or other help.
 - Describe your interacion and contribution to the project (documentation, fixing or reporting bugs/ open issues, improve development process and even the chapter you wrote).
-- Finish your book chapter, including a summary section discussing what you've learned from the course and the book project, how modeling contributed to your work (or how it got in the way..) and how you spent your time (an important habbit).
+- Finish your book chapter, add an abstract and inroduction sections, and a summary section discussing what you've learned from the course and the book project, how modeling contributed to your work (or how it got in the way..) and how you spent your time (an important habbit).
 
 The book will be avaialbe on github with a common creative with attribution license.
 
