@@ -50,11 +50,14 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 
 ([Originalß Instructions](https://github.com/jce-il/sw-modeling-2016b-uml))
 
-## ~~Homework3: Architecture Views & Prespetive (TBD)~~    
+## Homework3: Describing the Architecture of OSS Projects    
 
-1. Select a chapter from [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html) book ([Reference](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/VPandP_Reference.pdf))
-1. Review the architectural style of the project using the provided [V&P template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.doc)
-1. Present the project and your findings at class
+1. Select a chapter from [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html) books or one of the Desosa books (see end of proejct stage 0 instructions).
+1. Register it in our [table](https://github.com/jce-il/sw-modeling-2017b/wiki/HW3-OSS-Arch).
+1. Review the architectural style of the project using the chapter and the provided [V&P template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.doc).
+1. Publish your summary as a presentation file or wiki.
+1. Present the project and your findings at class, in one of the comming weeks.
+
 
 Possible alternative/addition: write a review for a project stage of another project team.
 
