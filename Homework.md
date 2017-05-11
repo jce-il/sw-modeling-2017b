@@ -48,7 +48,7 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 
 - **Submission dates**: 3 parts, each successive weeks
 
-([Originalß Instructions](https://github.com/jce-il/sw-modeling-2016b-uml))
+([Original Instructions](https://github.com/jce-il/sw-modeling-2016b-uml))
 
 ## Homework3: Describing the Architecture of OSS Projects    
 
@@ -57,7 +57,6 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 1. Review the architectural style of the project using the chapter and the provided [V&P template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.doc).
 1. Publish your summary as a presentation file or wiki.
 1. Present the project and your findings at class, in one of the comming weeks.
-
 
 Possible alternative/addition: write a review for a project stage of another project team.
 
