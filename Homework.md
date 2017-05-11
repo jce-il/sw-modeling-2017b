@@ -98,7 +98,7 @@ Grades are according to how much your work is: relevant (to the course), interes
 - Describe the given documentation and general source code structure.
 - Analyze and describe the main requirements/features of the product (stakeholder view).
 - Analyze and describe the major or important designs with UML diagrams and or other modeling means (e.g. sketeches (Calico), views, [C4][structurizr]).
-- Review the architectural style of the project using 2-3 of the most suitable Viewpoints and Prespectives from the course's book. Use the book's [template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.pdf)s. We are especially concened in this stage with the Development view. Describe how you used the book's checklists to ensure that the viewpoint are well developed.
+- Review the architectural style of the project using 2-3 of the most suitable Viewpoints and Prespectives from the course's book ([Book-Reference]). Use the book's [template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.pdf)s. We are especially concened in this stage with the Development view. Describe how you used the book's checklists to ensure that the viewpoint are well developed.
 - Describe a few challenges for this project (e.g., a missing important feature, known bugs).
 - Try to validate your analysis with the project team and report about it.
 
@@ -144,6 +144,8 @@ The book will be avaialbe on github with a common creative with attribution lice
 [Desosa-book17]: https://www.gitbook.com/book/delftswa/desosa-2017/details
 [branching model]: http://nvie.com/posts/a-successful-git-branching-model/
 [last-year-proejcts]: https://github.com/jce-il/sw-modeling-class/blob/master/Projects.md
+
+[Book-Reference]: http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/VPandP_Reference.pdf
 [structurizr]: https://structurizr.com/
 
 [Jasmine]: https://github.com/jasmine/jasmine
