@@ -54,11 +54,11 @@ The models should be simple but not too simplistic! Using some non trivial UML c
 
 1. Select a chapter from [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html) books or one of the Desosa books (see end of proejct stage 0 instructions).
 1. Register it in our [table](https://github.com/jce-il/sw-modeling-2017b/wiki/HW3-OSS-Arch).
-1. Review the architectural style of the project using the chapter and the provided [V&P template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.doc).
-1. Publish your summary as a presentation file or wiki.
+1. Review the architectural style of the project using the chapter and the provided [V&P doc template](http://www.viewpoints-and-perspectives.info/vpandp/wp-content/themes/secondedition/doc/registered/RozanskiAndWoods-Architecture-Description-Template.doc).
+1. Publish your summary as a presentation file or wiki (and update the lecturer by an issue or PR)
 1. Present the project and your findings at class, in one of the comming weeks.
 
-Possible alternative/addition: write a review for a project stage of another project team.
+(Possible alternative/addition: write a review for a project stage of another project team.)
 
 **Submission date**: 2 weeks, see Readme
 
